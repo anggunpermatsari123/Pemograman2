@@ -11,10 +11,10 @@
         <!-- Sidebar user (optional) -->
         <div class="user-panel mt-3 pb-3 mb-3 d-flex">
             <div class="image">
-                <img src="dist/img/avatar4.png" class="img-circle elevation-2" alt="User Image">
+                <img src="dist/img/avatar5.png" class="img-circle elevation-2" alt="User Image">
             </div>
             <div class="info">
-                <a href="#" class="d-block">Abdurrahman Ziyad</a>
+                <a href="#" class="d-block">ANGGUN PERMATASARI</a>
             </div>
         </div>
 
@@ -39,38 +39,30 @@
                     <a href="#" class="nav-link">
                         <i class="nav-icon fas fa-tachometer-alt"></i>
                         <p>
-                            Tugas Praktikum
+                            Table Data
                             <i class="right fas fa-angle-left"></i>
                         </p>
                     </a>
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
-                            <a href="praktikum01.php" class="nav-link">
+                            <a href="pasien" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
-                                <p>Praktikum 01</p>
+                                <p>Table Pasien</p>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="praktikum02.php" class="nav-link">
+                            <a href="dokter" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
-                                <p>Praktikum 02</p>
+                                <p>Table Dokter</p>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="praktikum03.php" class="nav-link">
+                            <a href="periksa" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
-                                <p>Praktikum 03</p>
+                                <p>Table Periksa</p>
                             </a>
                         </li>
                     </ul>
-                </li>
-                <li class="nav-item">
-                    <a href="project.php" class="nav-link">
-                        <i class="nav-icon fas fa-th"></i>
-                        <p>
-                            Project Akhir
-                        </p>
-                    </a>
                 </li>
 
             </ul>
