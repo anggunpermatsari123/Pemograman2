@@ -37,7 +37,7 @@ require_once 'sidebar.php';
                             </div>
                         </div>
                         <div class="card-body">
-                            ANGGUN PERMATASARI - 0110123191
+                            Anggun Permatasari - 0110123101
                         </div>
                         <!-- /.card-body -->
                         <div class="card-footer">

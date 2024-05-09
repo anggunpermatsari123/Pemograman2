@@ -2,7 +2,7 @@
     <div class="float-right d-none d-sm-block">
         <b>Version</b> 3.1.0
     </div>
-    <strong>Copyright &copy; 2024 <a href="https://adminlte.io">by ANGGUN PERMATASARI</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2024 <a href="https://adminlte.io">by Anggun Permatasari</a>.</strong> All rights reserved.
 </footer>
 
 <!-- Control Sidebar -->
